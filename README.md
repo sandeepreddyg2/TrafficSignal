@@ -1,6 +1,5 @@
 # TrafficSignal
 TrafficSignal
-/**
 	  
 	  *********** INSTRUCTIONS TO RUN FROM COMMAND LINE ***********
 	  
